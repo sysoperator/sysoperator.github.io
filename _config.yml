@@ -2,5 +2,6 @@ url: "https://sysoperator.pl"
 baseurl: ""
 
 title: "SYSOP"
+logo: /assets/images/logo-200x200.png
 
 theme: jekyll-theme-minimal
