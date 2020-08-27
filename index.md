@@ -1,4 +1,4 @@
-## DevOps-as-a-Service, Kubernetes consulting
+## Kubernetes hacking
 
 I help build and operate your Kubernetes services. You need integration with custom cloud provider? Not a problem. Feel free to contact me.
 
